@@ -1,0 +1,8 @@
+pillow==10.3.0
+pytesseract==0.3.10
+streamlit==1.35.0
+streamlit-chat==0.1.1
+wolframalpha==5.0.0
+snowflake-connector-python
+
+
